@@ -4,7 +4,7 @@
 #include <sys/wait.h>
 
 int main() {
-    // Il processo padre inizializza le variabili
+    // Il processo padre inizializza le variabili!
     int base = 8;
     int altezza = 5;
     int risultato;
