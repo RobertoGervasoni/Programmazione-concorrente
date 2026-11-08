@@ -2,7 +2,7 @@
 """Hello World: dal programma Python al processo in esecuzione."""
 import os
 
-nome = 'Roberto'
+nome = 'Roberto Gervasoni'
 messaggio = "Hello World sotto controllo versione con git."
 
 print('Hello, World!')
